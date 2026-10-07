@@ -74,7 +74,7 @@
     "expo-router": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-reanimated": "*"
+    "react-native-reanimated": ">=4.7.0"
   },
   "peerDependenciesMeta": {
     "expo-router": {
