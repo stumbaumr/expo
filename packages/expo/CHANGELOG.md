@@ -1,5 +1,19 @@
 # Changelog
 
+## 58.0.7
+
+### Patch Changes
+
+- Updated dependencies. ([#51204](https://github.com/expo/expo/pull/51204), [#51227](https://github.com/expo/expo/pull/51227), [#51169](https://github.com/expo/expo/pull/51169), [#51168](https://github.com/expo/expo/pull/51168), [#51185](https://github.com/expo/expo/pull/51185), [#50956](https://github.com/expo/expo/pull/50956))
+  - expo-modules-core@58.0.15
+  - @expo/cli@58.1.6
+  - expo-file-system@58.0.8
+  - @expo/fingerprint@0.21.4
+  - @expo/log-box-utils@58.0.2
+  - expo-modules-autolinking@58.0.11
+  - @expo/log-box@58.0.12
+  - babel-preset-expo@58.0.12
+
 ## 58.0.6
 
 ### Patch Changes

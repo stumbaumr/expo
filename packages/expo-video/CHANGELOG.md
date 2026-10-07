@@ -1,5 +1,11 @@
 # Changelog
 
+## 58.0.9
+
+### Patch Changes
+
+- [Android] Fall back to another HLS rendition when a request can't reach the network while `useCaching` is enabled, so cached videos play offline. ([#50480](https://github.com/expo/expo/pull/50480) by [@Glenn444](https://github.com/Glenn444))
+
 ## 58.0.8
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # Changelog
 
+## 58.1.6
+
+### Patch Changes
+
+- Load `.env` files in the bundle's mode in `expo export:embed` instead of keeping values loaded by a parent Expo process. ([#51227](https://github.com/expo/expo/pull/51227) by [@ramonclaudio](https://github.com/ramonclaudio))
+- Updated dependencies. ([#51185](https://github.com/expo/expo/pull/51185))
+  - @expo/log-box-utils@58.0.2
+  - @expo/log-box@58.0.12
+  - @expo/prebuild-config@58.0.11
+  - @expo/metro-config@58.0.10
+  - @expo/router-server@58.0.11
+
 ## 58.1.5
 
 ### Patch Changes
